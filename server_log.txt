@@ -1,0 +1,2144 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[14:28:11] filterscripts = ""  (string)
+[14:28:11] 
+[14:28:11] Server Plugins
+[14:28:11] --------------
+[14:28:11]  Loading plugin: mysql.dll
+[14:28:11]  >> plugin.mysql: R41-4 successfully loaded.
+[14:28:11]   Loaded.
+[14:28:11]  Loading plugin: dc_cmd.dll
+[14:28:11]   Daniel''s CMD plugin v2.01
+[14:28:11]   Loaded.
+[14:28:11]  Loading plugin: streamer.dll
+[14:28:11] 
+
+*** Streamer Plugin v2.9.1 by Incognito loaded ***
+
+[14:28:11]   Loaded.
+[14:28:11]  Loaded 3 plugins.
+
+[14:28:11] I couldn't load any gamemode scripts. Please verify your server.cfg
+[14:28:11] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[14:45:18] filterscripts = ""  (string)
+[14:45:18] 
+[14:45:18] Server Plugins
+[14:45:18] --------------
+[14:45:18]  Loading plugin: mysql.dll
+[14:45:18]  >> plugin.mysql: R41-4 successfully loaded.
+[14:45:18]   Loaded.
+[14:45:18]  Loading plugin: dc_cmd.dll
+[14:45:18]   Daniel''s CMD plugin v2.01
+[14:45:18]   Loaded.
+[14:45:18]  Loading plugin: streamer.dll
+[14:45:18] 
+
+*** Streamer Plugin v2.9.3 by Incognito loaded ***
+
+[14:45:18]   Loaded.
+[14:45:18]  Loaded 3 plugins.
+
+[14:45:18] 
+[14:45:18] Filterscripts
+[14:45:18] ---------------
+[14:45:18]   Loaded 0 filterscripts.
+
+[14:45:22] Connection to database successful!
+[14:45:22] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[14:45:22] Number of vehicle models: 0
+[14:45:22] Incomming connection: 127.0.0.1:52354
+[14:45:22] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[14:45:22] 
+- GangZones loaded: 104. For: (0 ms)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[14:48:15] filterscripts = ""  (string)
+[14:48:15] 
+[14:48:15] Server Plugins
+[14:48:15] --------------
+[14:48:15]  Loading plugin: mysql.dll
+[14:48:15]  >> plugin.mysql: R41-4 successfully loaded.
+[14:48:15]   Loaded.
+[14:48:15]  Loading plugin: dc_cmd.dll
+[14:48:15]   Daniel''s CMD plugin v2.01
+[14:48:15]   Loaded.
+[14:48:15]  Loaded 2 plugins.
+
+[14:48:15] 
+[14:48:15] Filterscripts
+[14:48:15] ---------------
+[14:48:15]   Loaded 0 filterscripts.
+
+[14:48:19] Connection to database successful!
+[14:48:19] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[14:48:19] Number of vehicle models: 0
+[14:48:19] 
+- GangZones loaded: 104. For: (0 ms)
+[14:49:28] Incomming connection: 127.0.0.1:58864
+[14:49:28] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[15:03:54] filterscripts = ""  (string)
+[15:03:54] 
+[15:03:54] Server Plugins
+[15:03:54] --------------
+[15:03:54]  Loading plugin: mysql.dll
+[15:03:55]  >> plugin.mysql: R41-4 successfully loaded.
+[15:03:55]   Loaded.
+[15:03:55]  Loading plugin: dc_cmd.dll
+[15:03:55]   Daniel''s CMD plugin v2.01
+[15:03:55]   Loaded.
+[15:03:55]  Loaded 2 plugins.
+
+[15:03:55] 
+[15:03:55] Filterscripts
+[15:03:55] ---------------
+[15:03:55]   Loaded 0 filterscripts.
+
+[15:03:59] Connection to database successful!
+[15:03:59] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[15:03:59] Number of vehicle models: 0
+[15:03:59] 
+- GangZones loaded: 104. For: (0 ms)
+[15:04:09] Incomming connection: 127.0.0.1:57062
+[15:04:09] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[15:05:02] filterscripts = ""  (string)
+[15:05:02] 
+[15:05:02] Server Plugins
+[15:05:02] --------------
+[15:05:02]  Loading plugin: mysql.dll
+[15:05:02]  >> plugin.mysql: R41-4 successfully loaded.
+[15:05:02]   Loaded.
+[15:05:02]  Loading plugin: dc_cmd.dll
+[15:05:02]   Daniel''s CMD plugin v2.01
+[15:05:02]   Loaded.
+[15:05:02]  Loaded 2 plugins.
+
+[15:05:02] 
+[15:05:02] Filterscripts
+[15:05:02] ---------------
+[15:05:02]   Loaded 0 filterscripts.
+
+[15:05:07] Connection to database successful!
+[15:05:07] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[15:05:07] Number of vehicle models: 0
+[15:05:07] 
+- GangZones loaded: 104. For: (0 ms)
+[15:05:34] Incomming connection: 127.0.0.1:55679
+[15:05:34] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[15:29:21] [death] 0x23C0231 died 54
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[15:43:24] filterscripts = ""  (string)
+[15:43:24] 
+[15:43:24] Server Plugins
+[15:43:24] --------------
+[15:43:24]  Loading plugin: mysql.dll
+[15:43:24]  >> plugin.mysql: R41-4 successfully loaded.
+[15:43:24]   Loaded.
+[15:43:24]  Loading plugin: dc_cmd.dll
+[15:43:24]   Daniel''s CMD plugin v2.01
+[15:43:24]   Loaded.
+[15:43:24]  Loaded 2 plugins.
+
+[15:43:24] 
+[15:43:24] Filterscripts
+[15:43:24] ---------------
+[15:43:24]   Loaded 0 filterscripts.
+
+[15:43:28] Connection to database successful!
+[15:43:28] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[15:43:28] Number of vehicle models: 0
+[15:43:28] 
+- GangZones loaded: 104. For: (0 ms)
+[15:43:43] Incomming connection: 127.0.0.1:54299
+[15:43:44] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[15:44:30] filterscripts = ""  (string)
+[15:44:30] 
+[15:44:30] Server Plugins
+[15:44:30] --------------
+[15:44:30]  Loading plugin: mysql.dll
+[15:44:30]  >> plugin.mysql: R41-4 successfully loaded.
+[15:44:30]   Loaded.
+[15:44:30]  Loading plugin: dc_cmd.dll
+[15:44:30]   Daniel''s CMD plugin v2.01
+[15:44:30]   Loaded.
+[15:44:30]  Loaded 2 plugins.
+
+[15:44:30] 
+[15:44:30] Filterscripts
+[15:44:30] ---------------
+[15:44:30]   Loaded 0 filterscripts.
+
+[15:44:34] Connection to database successful!
+[15:44:34] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[15:44:34] Number of vehicle models: 0
+[15:44:34] 
+- GangZones loaded: 104. For: (0 ms)
+[15:44:45] Incomming connection: 127.0.0.1:51211
+[15:44:45] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[15:45:39] filterscripts = ""  (string)
+[15:45:39] 
+[15:45:39] Server Plugins
+[15:45:39] --------------
+[15:45:39]  Loading plugin: mysql.dll
+[15:45:39]  >> plugin.mysql: R41-4 successfully loaded.
+[15:45:39]   Loaded.
+[15:45:39]  Loading plugin: dc_cmd.dll
+[15:45:39]   Daniel''s CMD plugin v2.01
+[15:45:39]   Loaded.
+[15:45:39]  Loaded 2 plugins.
+
+[15:45:39] 
+[15:45:39] Filterscripts
+[15:45:39] ---------------
+[15:45:39]   Loaded 0 filterscripts.
+
+[15:45:43] Connection to database successful!
+[15:45:43] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[15:45:43] Number of vehicle models: 0
+[15:45:43] 
+- GangZones loaded: 104. For: (0 ms)
+[15:45:53] Incomming connection: 127.0.0.1:57845
+[15:45:53] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:14:54] filterscripts = ""  (string)
+[16:14:54] 
+[16:14:54] Server Plugins
+[16:14:54] --------------
+[16:14:54]  Loading plugin: mysql.dll
+[16:14:54]  >> plugin.mysql: R41-4 successfully loaded.
+[16:14:54]   Loaded.
+[16:14:54]  Loading plugin: dc_cmd.dll
+[16:14:54]   Daniel''s CMD plugin v2.01
+[16:14:54]   Loaded.
+[16:14:54]  Loaded 2 plugins.
+
+[16:14:54] 
+[16:14:54] Filterscripts
+[16:14:54] ---------------
+[16:14:54]   Loaded 0 filterscripts.
+
+[16:14:58] Connection to database successful!
+[16:14:58] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:14:58] Number of vehicle models: 0
+[16:14:58] 
+- GangZones loaded: 104. For: (0 ms)
+[16:15:07] Incomming connection: 127.0.0.1:58654
+[16:15:07] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:16:32] filterscripts = ""  (string)
+[16:16:32] 
+[16:16:32] Server Plugins
+[16:16:32] --------------
+[16:16:32]  Loading plugin: mysql.dll
+[16:16:32]  >> plugin.mysql: R41-4 successfully loaded.
+[16:16:32]   Loaded.
+[16:16:32]  Loading plugin: dc_cmd.dll
+[16:16:32]   Daniel''s CMD plugin v2.01
+[16:16:32]   Loaded.
+[16:16:32]  Loaded 2 plugins.
+
+[16:16:32] 
+[16:16:32] Filterscripts
+[16:16:32] ---------------
+[16:16:32]   Loaded 0 filterscripts.
+
+[16:16:36] Connection to database successful!
+[16:16:36] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:16:36] Number of vehicle models: 0
+[16:16:36] 
+- GangZones loaded: 104. For: (0 ms)
+[16:16:47] Incomming connection: 127.0.0.1:57817
+[16:16:47] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:17:53] filterscripts = ""  (string)
+[16:17:53] 
+[16:17:53] Server Plugins
+[16:17:53] --------------
+[16:17:53]  Loading plugin: mysql.dll
+[16:17:53]  >> plugin.mysql: R41-4 successfully loaded.
+[16:17:53]   Loaded.
+[16:17:53]  Loading plugin: dc_cmd.dll
+[16:17:53]   Daniel''s CMD plugin v2.01
+[16:17:53]   Loaded.
+[16:17:53]  Loaded 2 plugins.
+
+[16:17:53] 
+[16:17:53] Filterscripts
+[16:17:53] ---------------
+[16:17:53]   Loaded 0 filterscripts.
+
+[16:17:57] Connection to database successful!
+[16:17:57] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:17:57] Number of vehicle models: 0
+[16:17:57] 
+- GangZones loaded: 104. For: (0 ms)
+[16:18:13] Incomming connection: 127.0.0.1:60960
+[16:18:13] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:24:32] filterscripts = ""  (string)
+[16:24:32] 
+[16:24:32] Server Plugins
+[16:24:32] --------------
+[16:24:32]  Loading plugin: mysql.dll
+[16:24:32]  >> plugin.mysql: R41-4 successfully loaded.
+[16:24:32]   Loaded.
+[16:24:32]  Loading plugin: dc_cmd.dll
+[16:24:32]   Daniel''s CMD plugin v2.01
+[16:24:32]   Loaded.
+[16:24:32]  Loaded 2 plugins.
+
+[16:24:32] 
+[16:24:32] Filterscripts
+[16:24:32] ---------------
+[16:24:32]   Loaded 0 filterscripts.
+
+[16:24:37] Connection to database successful!
+[16:24:37] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:24:37] Number of vehicle models: 0
+[16:24:37] 
+- GangZones loaded: 104. For: (0 ms)
+[16:24:41] Incomming connection: 127.0.0.1:64706
+[16:24:41] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:30:39] filterscripts = ""  (string)
+[16:30:39] 
+[16:30:39] Server Plugins
+[16:30:39] --------------
+[16:30:39]  Loading plugin: mysql.dll
+[16:30:39]  >> plugin.mysql: R41-4 successfully loaded.
+[16:30:39]   Loaded.
+[16:30:39]  Loading plugin: dc_cmd.dll
+[16:30:39]   Daniel''s CMD plugin v2.01
+[16:30:39]   Loaded.
+[16:30:39]  Loaded 2 plugins.
+
+[16:30:39] 
+[16:30:39] Filterscripts
+[16:30:39] ---------------
+[16:30:39]   Loaded 0 filterscripts.
+
+[16:30:43] Connection to database successful!
+[16:30:43] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:30:43] Number of vehicle models: 0
+[16:30:43] 
+- GangZones loaded: 104. For: (0 ms)
+[16:30:49] Incomming connection: 127.0.0.1:60309
+[16:30:49] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:35:31] filterscripts = ""  (string)
+[16:35:31] 
+[16:35:31] Server Plugins
+[16:35:31] --------------
+[16:35:31]  Loading plugin: mysql.dll
+[16:35:31]  >> plugin.mysql: R41-4 successfully loaded.
+[16:35:31]   Loaded.
+[16:35:31]  Loading plugin: dc_cmd.dll
+[16:35:31]   Daniel''s CMD plugin v2.01
+[16:35:31]   Loaded.
+[16:35:31]  Loaded 2 plugins.
+
+[16:35:31] 
+[16:35:31] Filterscripts
+[16:35:31] ---------------
+[16:35:31]   Loaded 0 filterscripts.
+
+[16:35:35] Connection to database successful!
+[16:35:35] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:35:35] Number of vehicle models: 0
+[16:35:35] 
+- GangZones loaded: 104. For: (16 ms)
+[16:35:53] Incomming connection: 127.0.0.1:56654
+[16:35:53] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:38:35] filterscripts = ""  (string)
+[16:38:35] 
+[16:38:35] Server Plugins
+[16:38:35] --------------
+[16:38:35]  Loading plugin: mysql.dll
+[16:38:35]  >> plugin.mysql: R41-4 successfully loaded.
+[16:38:35]   Loaded.
+[16:38:35]  Loading plugin: dc_cmd.dll
+[16:38:35]   Daniel''s CMD plugin v2.01
+[16:38:35]   Loaded.
+[16:38:35]  Loaded 2 plugins.
+
+[16:38:35] 
+[16:38:35] Filterscripts
+[16:38:35] ---------------
+[16:38:35]   Loaded 0 filterscripts.
+
+[16:38:39] Connection to database successful!
+[16:38:39] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:38:39] Number of vehicle models: 0
+[16:38:39] 
+- GangZones loaded: 104. For: (0 ms)
+[16:38:44] Incomming connection: 127.0.0.1:55618
+[16:38:44] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:52:03] filterscripts = ""  (string)
+[16:52:03] 
+[16:52:03] Server Plugins
+[16:52:03] --------------
+[16:52:03]  Loading plugin: mysql.dll
+[16:52:03]  >> plugin.mysql: R41-4 successfully loaded.
+[16:52:03]   Loaded.
+[16:52:03]  Loading plugin: dc_cmd.dll
+[16:52:03]   Daniel''s CMD plugin v2.01
+[16:52:03]   Loaded.
+[16:52:03]  Loaded 2 plugins.
+
+[16:52:03] 
+[16:52:03] Filterscripts
+[16:52:03] ---------------
+[16:52:03]   Loaded 0 filterscripts.
+
+[16:52:07] Connection to database successful!
+[16:52:07] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:52:07] Number of vehicle models: 0
+[16:52:07] 
+- GangZones loaded: 104. For: (0 ms)
+[16:52:15] Incomming connection: 127.0.0.1:61834
+[16:52:15] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:56:52] filterscripts = ""  (string)
+[16:56:52] 
+[16:56:52] Server Plugins
+[16:56:52] --------------
+[16:56:52]  Loading plugin: mysql.dll
+[16:56:52]  >> plugin.mysql: R41-4 successfully loaded.
+[16:56:52]   Loaded.
+[16:56:52]  Loading plugin: dc_cmd.dll
+[16:56:52]   Daniel''s CMD plugin v2.01
+[16:56:52]   Loaded.
+[16:56:52]  Loaded 2 plugins.
+
+[16:56:52] 
+[16:56:52] Filterscripts
+[16:56:52] ---------------
+[16:56:52]   Loaded 0 filterscripts.
+
+[16:56:56] Connection to database successful!
+[16:56:56] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:56:56] Number of vehicle models: 0
+[16:56:56] 
+- GangZones loaded: 104. For: (0 ms)
+[16:57:32] Incomming connection: 127.0.0.1:53192
+[16:57:32] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:59:48] filterscripts = ""  (string)
+[16:59:48] 
+[16:59:48] Server Plugins
+[16:59:48] --------------
+[16:59:48]  Loading plugin: mysql.dll
+[16:59:48]  >> plugin.mysql: R41-4 successfully loaded.
+[16:59:48]   Loaded.
+[16:59:48]  Loading plugin: dc_cmd.dll
+[16:59:48]   Daniel''s CMD plugin v2.01
+[16:59:48]   Loaded.
+[16:59:48]  Loaded 2 plugins.
+
+[16:59:48] 
+[16:59:48] Filterscripts
+[16:59:48] ---------------
+[16:59:48]   Loaded 0 filterscripts.
+
+[16:59:52] Connection to database successful!
+[16:59:52] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:59:52] Number of vehicle models: 0
+[16:59:52] 
+- GangZones loaded: 104. For: (0 ms)
+[17:00:04] Incomming connection: 127.0.0.1:64229
+[17:00:04] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[17:01:34] filterscripts = ""  (string)
+[17:01:34] 
+[17:01:34] Server Plugins
+[17:01:34] --------------
+[17:01:34]  Loading plugin: mysql.dll
+[17:01:34]  >> plugin.mysql: R41-4 successfully loaded.
+[17:01:34]   Loaded.
+[17:01:34]  Loading plugin: dc_cmd.dll
+[17:01:34]   Daniel''s CMD plugin v2.01
+[17:01:34]   Loaded.
+[17:01:34]  Loaded 2 plugins.
+
+[17:01:34] 
+[17:01:34] Filterscripts
+[17:01:34] ---------------
+[17:01:34]   Loaded 0 filterscripts.
+
+[17:01:38] Connection to database successful!
+[17:01:38] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[17:01:38] Number of vehicle models: 0
+[17:01:38] 
+- GangZones loaded: 104. For: (0 ms)
+[17:01:49] Incomming connection: 127.0.0.1:59548
+[17:02:16] Incomming connection: 127.0.0.1:54110
+[17:02:16] [join] 0x23C0231 has joined the server (1:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[17:03:14] filterscripts = ""  (string)
+[17:03:14] 
+[17:03:14] Server Plugins
+[17:03:14] --------------
+[17:03:14]  Loading plugin: mysql.dll
+[17:03:14]  >> plugin.mysql: R41-4 successfully loaded.
+[17:03:14]   Loaded.
+[17:03:14]  Loading plugin: dc_cmd.dll
+[17:03:14]   Daniel''s CMD plugin v2.01
+[17:03:14]   Loaded.
+[17:03:14]  Loaded 2 plugins.
+
+[17:03:14] 
+[17:03:14] Filterscripts
+[17:03:14] ---------------
+[17:03:14]   Loaded 0 filterscripts.
+
+[17:03:18] Connection to database successful!
+[17:03:18] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[17:03:18] Number of vehicle models: 0
+[17:03:18] 
+- GangZones loaded: 104. For: (0 ms)
+[17:03:31] Incomming connection: 127.0.0.1:49247
+[17:03:31] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[17:04:34] filterscripts = ""  (string)
+[17:04:34] 
+[17:04:34] Server Plugins
+[17:04:34] --------------
+[17:04:34]  Loading plugin: mysql.dll
+[17:04:34]  >> plugin.mysql: R41-4 successfully loaded.
+[17:04:34]   Loaded.
+[17:04:34]  Loading plugin: dc_cmd.dll
+[17:04:34]   Daniel''s CMD plugin v2.01
+[17:04:34]   Loaded.
+[17:04:34]  Loaded 2 plugins.
+
+[17:04:34] 
+[17:04:34] Filterscripts
+[17:04:34] ---------------
+[17:04:34]   Loaded 0 filterscripts.
+
+[17:04:39] Connection to database successful!
+[17:04:39] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[17:04:39] Number of vehicle models: 0
+[17:04:39] 
+- GangZones loaded: 104. For: (0 ms)
+[17:04:53] Incomming connection: 127.0.0.1:58797
+[17:04:53] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[17:05:48] filterscripts = ""  (string)
+[17:05:48] 
+[17:05:48] Server Plugins
+[17:05:48] --------------
+[17:05:48]  Loading plugin: mysql.dll
+[17:05:49]  >> plugin.mysql: R41-4 successfully loaded.
+[17:05:49]   Loaded.
+[17:05:49]  Loading plugin: dc_cmd.dll
+[17:05:49]   Daniel''s CMD plugin v2.01
+[17:05:49]   Loaded.
+[17:05:49]  Loaded 2 plugins.
+
+[17:05:49] 
+[17:05:49] Filterscripts
+[17:05:49] ---------------
+[17:05:49]   Loaded 0 filterscripts.
+
+[17:05:53] Connection to database successful!
+[17:05:53] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[17:05:53] Number of vehicle models: 0
+[17:05:53] 
+- GangZones loaded: 104. For: (0 ms)
+[17:06:06] Incomming connection: 127.0.0.1:65205
+[17:06:06] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[17:22:53] filterscripts = ""  (string)
+[17:22:53] 
+[17:22:53] Server Plugins
+[17:22:53] --------------
+[17:22:53]  Loading plugin: mysql.dll
+[17:22:53]  >> plugin.mysql: R41-4 successfully loaded.
+[17:22:53]   Loaded.
+[17:22:53]  Loading plugin: dc_cmd.dll
+[17:22:53]   Daniel''s CMD plugin v2.01
+[17:22:53]   Loaded.
+[17:22:53]  Loaded 2 plugins.
+
+[17:22:53] 
+[17:22:53] Filterscripts
+[17:22:53] ---------------
+[17:22:53]   Loaded 0 filterscripts.
+
+[17:22:57] Connection to database successful!
+[17:22:57] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[17:22:57] Number of vehicle models: 0
+[17:22:57] 
+- GangZones loaded: 104. For: (0 ms)
+[17:23:14] Incomming connection: 127.0.0.1:49775
+[17:23:14] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[17:24:01] filterscripts = ""  (string)
+[17:24:01] 
+[17:24:01] Server Plugins
+[17:24:01] --------------
+[17:24:01]  Loading plugin: mysql.dll
+[17:24:01]  >> plugin.mysql: R41-4 successfully loaded.
+[17:24:01]   Loaded.
+[17:24:01]  Loading plugin: dc_cmd.dll
+[17:24:01]   Daniel''s CMD plugin v2.01
+[17:24:01]   Loaded.
+[17:24:01]  Loaded 2 plugins.
+
+[17:24:02] 
+[17:24:02] Filterscripts
+[17:24:02] ---------------
+[17:24:02]   Loaded 0 filterscripts.
+
+[17:24:06] Connection to database successful!
+[17:24:06] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[17:24:06] Number of vehicle models: 0
+[17:24:06] 
+- GangZones loaded: 104. For: (0 ms)
+[17:24:13] Incomming connection: 127.0.0.1:58841
+[17:24:13] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[17:24:44] filterscripts = ""  (string)
+[17:24:44] 
+[17:24:44] Server Plugins
+[17:24:44] --------------
+[17:24:44]  Loading plugin: mysql.dll
+[17:24:44]  >> plugin.mysql: R41-4 successfully loaded.
+[17:24:44]   Loaded.
+[17:24:44]  Loading plugin: dc_cmd.dll
+[17:24:44]   Daniel''s CMD plugin v2.01
+[17:24:44]   Loaded.
+[17:24:44]  Loaded 2 plugins.
+
+[17:24:45] 
+[17:24:45] Filterscripts
+[17:24:45] ---------------
+[17:24:45]   Loaded 0 filterscripts.
+
+[17:24:49] Connection to database successful!
+[17:24:49] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[17:24:49] Number of vehicle models: 0
+[17:24:49] 
+- GangZones loaded: 104. For: (0 ms)
+[17:24:58] Incomming connection: 127.0.0.1:58842
+[17:24:58] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[17:53:37] filterscripts = ""  (string)
+[17:53:37] 
+[17:53:37] Server Plugins
+[17:53:37] --------------
+[17:53:37]  Loading plugin: mysql.dll
+[17:53:37]  >> plugin.mysql: R41-4 successfully loaded.
+[17:53:37]   Loaded.
+[17:53:37]  Loading plugin: dc_cmd.dll
+[17:53:37]   Daniel''s CMD plugin v2.01
+[17:53:37]   Loaded.
+[17:53:37]  Loaded 2 plugins.
+
+[17:53:37] 
+[17:53:37] Filterscripts
+[17:53:37] ---------------
+[17:53:37]   Loaded 0 filterscripts.
+
+[17:53:41] Connection to database successful!
+[17:53:41] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[17:53:41] Number of vehicle models: 0
+[17:53:41] Incomming connection: 127.0.0.1:64907
+[17:53:41] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[17:53:41] 
+- GangZones loaded: 104. For: (0 ms)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[17:58:48] filterscripts = ""  (string)
+[17:58:48] 
+[17:58:48] Server Plugins
+[17:58:48] --------------
+[17:58:48]  Loading plugin: mysql.dll
+[17:58:48]  >> plugin.mysql: R41-4 successfully loaded.
+[17:58:48]   Loaded.
+[17:58:48]  Loading plugin: dc_cmd.dll
+[17:58:48]   Daniel''s CMD plugin v2.01
+[17:58:48]   Loaded.
+[17:58:48]  Loaded 2 plugins.
+
+[17:58:48] 
+[17:58:48] Filterscripts
+[17:58:48] ---------------
+[17:58:48]   Loaded 0 filterscripts.
+
+[17:58:52] Connection to database successful!
+[17:58:52] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[17:58:52] Number of vehicle models: 0
+[17:58:52] 
+- GangZones loaded: 104. For: (0 ms)
+[17:59:08] Incomming connection: 127.0.0.1:50900
+[17:59:08] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[18:03:20] filterscripts = ""  (string)
+[18:03:20] 
+[18:03:20] Server Plugins
+[18:03:20] --------------
+[18:03:20]  Loading plugin: mysql.dll
+[18:03:20]  >> plugin.mysql: R41-4 successfully loaded.
+[18:03:20]   Loaded.
+[18:03:20]  Loading plugin: dc_cmd.dll
+[18:03:20]   Daniel''s CMD plugin v2.01
+[18:03:20]   Loaded.
+[18:03:20]  Loaded 2 plugins.
+
+[18:03:21] 
+[18:03:21] Filterscripts
+[18:03:21] ---------------
+[18:03:21]   Loaded 0 filterscripts.
+
+[18:03:25] Connection to database successful!
+[18:03:25] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[18:03:25] Number of vehicle models: 0
+[18:03:25] 
+- GangZones loaded: 104. For: (0 ms)
+[18:04:05] Incomming connection: 127.0.0.1:59837
+[18:04:06] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[18:10:18] filterscripts = ""  (string)
+[18:10:18] 
+[18:10:18] Server Plugins
+[18:10:18] --------------
+[18:10:18]  Loading plugin: mysql.dll
+[18:10:18]  >> plugin.mysql: R41-4 successfully loaded.
+[18:10:18]   Loaded.
+[18:10:18]  Loading plugin: dc_cmd.dll
+[18:10:18]   Daniel''s CMD plugin v2.01
+[18:10:18]   Loaded.
+[18:10:18]  Loaded 2 plugins.
+
+[18:10:18] 
+[18:10:18] Filterscripts
+[18:10:18] ---------------
+[18:10:18]   Loaded 0 filterscripts.
+
+[18:10:22] Connection to database successful!
+[18:10:22] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[18:10:22] Number of vehicle models: 0
+[18:10:22] 
+- GangZones loaded: 104. For: (16 ms)
+[18:10:39] Incomming connection: 127.0.0.1:53962
+[18:10:39] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[18:12:44] filterscripts = ""  (string)
+[18:12:44] 
+[18:12:44] Server Plugins
+[18:12:44] --------------
+[18:12:44]  Loading plugin: mysql.dll
+[18:12:44]  >> plugin.mysql: R41-4 successfully loaded.
+[18:12:44]   Loaded.
+[18:12:44]  Loading plugin: dc_cmd.dll
+[18:12:44]   Daniel''s CMD plugin v2.01
+[18:12:44]   Loaded.
+[18:12:44]  Loaded 2 plugins.
+
+[18:12:44] 
+[18:12:44] Filterscripts
+[18:12:44] ---------------
+[18:12:44]   Loaded 0 filterscripts.
+
+[18:12:48] Connection to database successful!
+[18:12:48] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[18:12:48] Number of vehicle models: 0
+[18:12:49] 
+- GangZones loaded: 104. For: (0 ms)
+[18:13:01] Incomming connection: 127.0.0.1:56133
+[18:13:01] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[18:21:36] filterscripts = ""  (string)
+[18:21:36] 
+[18:21:36] Server Plugins
+[18:21:36] --------------
+[18:21:36]  Loading plugin: mysql.dll
+[18:21:36]  >> plugin.mysql: R41-4 successfully loaded.
+[18:21:36]   Loaded.
+[18:21:36]  Loading plugin: dc_cmd.dll
+[18:21:36]   Daniel''s CMD plugin v2.01
+[18:21:36]   Loaded.
+[18:21:36]  Loaded 2 plugins.
+
+[18:21:37] 
+[18:21:37] Filterscripts
+[18:21:37] ---------------
+[18:21:37]   Loaded 0 filterscripts.
+
+[18:21:41] Connection to database successful!
+[18:21:41] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[18:21:41] Number of vehicle models: 0
+[18:21:41] 
+- GangZones loaded: 104. For: (0 ms)
+[18:21:50] Incomming connection: 127.0.0.1:64459
+[18:21:50] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[18:23:34] filterscripts = ""  (string)
+[18:23:34] 
+[18:23:34] Server Plugins
+[18:23:34] --------------
+[18:23:34]  Loading plugin: mysql.dll
+[18:23:34]  >> plugin.mysql: R41-4 successfully loaded.
+[18:23:34]   Loaded.
+[18:23:35]  Loading plugin: dc_cmd.dll
+[18:23:35]   Daniel''s CMD plugin v2.01
+[18:23:35]   Loaded.
+[18:23:35]  Loaded 2 plugins.
+
+[18:23:35] 
+[18:23:35] Filterscripts
+[18:23:35] ---------------
+[18:23:35]   Loaded 0 filterscripts.
+
+[18:23:39] Connection to database successful!
+[18:23:39] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[18:23:39] Number of vehicle models: 0
+[18:23:39] 
+- GangZones loaded: 104. For: (0 ms)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[18:25:12] filterscripts = ""  (string)
+[18:25:12] 
+[18:25:12] Server Plugins
+[18:25:12] --------------
+[18:25:12]  Loading plugin: mysql.dll
+[18:25:12]  >> plugin.mysql: R41-4 successfully loaded.
+[18:25:12]   Loaded.
+[18:25:12]  Loading plugin: dc_cmd.dll
+[18:25:12]   Daniel''s CMD plugin v2.01
+[18:25:12]   Loaded.
+[18:25:12]  Loaded 2 plugins.
+
+[18:25:12] 
+[18:25:12] Filterscripts
+[18:25:12] ---------------
+[18:25:12]   Loaded 0 filterscripts.
+
+[18:25:16] Connection to database successful!
+[18:25:16] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[18:25:16] Number of vehicle models: 0
+[18:25:16] Incomming connection: 127.0.0.1:59170
+[18:25:16] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[18:25:16] 
+- GangZones loaded: 104. For: (0 ms)
+[18:25:17] [part] 0x23C0231 has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[18:25:32] filterscripts = ""  (string)
+[18:25:32] 
+[18:25:32] Server Plugins
+[18:25:32] --------------
+[18:25:32]  Loading plugin: mysql.dll
+[18:25:32]  >> plugin.mysql: R41-4 successfully loaded.
+[18:25:32]   Loaded.
+[18:25:32]  Loading plugin: dc_cmd.dll
+[18:25:32]   Daniel''s CMD plugin v2.01
+[18:25:32]   Loaded.
+[18:25:32]  Loaded 2 plugins.
+
+[18:25:32] 
+[18:25:32] Filterscripts
+[18:25:32] ---------------
+[18:25:32]   Loaded 0 filterscripts.
+
+[18:25:36] Connection to database successful!
+[18:25:36] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[18:25:36] Number of vehicle models: 0
+[18:25:36] 
+- GangZones loaded: 104. For: (0 ms)
+[18:25:56] Incomming connection: 127.0.0.1:49285
+[18:25:56] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[18:32:50] filterscripts = ""  (string)
+[18:32:50] 
+[18:32:50] Server Plugins
+[18:32:50] --------------
+[18:32:50]  Loading plugin: mysql.dll
+[18:32:50]  >> plugin.mysql: R41-4 successfully loaded.
+[18:32:50]   Loaded.
+[18:32:50]  Loading plugin: dc_cmd.dll
+[18:32:50]   Daniel''s CMD plugin v2.01
+[18:32:50]   Loaded.
+[18:32:50]  Loaded 2 plugins.
+
+[18:32:50] 
+[18:32:50] Filterscripts
+[18:32:50] ---------------
+[18:32:50]   Loaded 0 filterscripts.
+
+[18:32:54] Connection to database successful!
+[18:32:54] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[18:32:54] Number of vehicle models: 0
+[18:32:54] 
+- GangZones loaded: 104. For: (0 ms)
+[18:33:05] Incomming connection: 127.0.0.1:56599
+[18:33:05] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[18:41:25] filterscripts = ""  (string)
+[18:41:25] 
+[18:41:25] Server Plugins
+[18:41:25] --------------
+[18:41:25]  Loading plugin: mysql.dll
+[18:41:25]  >> plugin.mysql: R41-4 successfully loaded.
+[18:41:25]   Loaded.
+[18:41:25]  Loading plugin: dc_cmd.dll
+[18:41:25]   Daniel''s CMD plugin v2.01
+[18:41:25]   Loaded.
+[18:41:25]  Loaded 2 plugins.
+
+[18:41:25] 
+[18:41:25] Filterscripts
+[18:41:25] ---------------
+[18:41:25]   Loaded 0 filterscripts.
+
+[18:41:29] Connection to database successful!
+[18:41:29] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[18:41:29] Number of vehicle models: 0
+[18:41:29] 
+- GangZones loaded: 104. For: (0 ms)
+[18:41:31] Incomming connection: 127.0.0.1:64359
+[18:41:31] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[19:01:24] filterscripts = ""  (string)
+[19:01:24] 
+[19:01:24] Server Plugins
+[19:01:24] --------------
+[19:01:24]  Loading plugin: mysql.dll
+[19:01:24]  >> plugin.mysql: R41-4 successfully loaded.
+[19:01:24]   Loaded.
+[19:01:24]  Loading plugin: dc_cmd.dll
+[19:01:24]   Daniel''s CMD plugin v2.01
+[19:01:24]   Loaded.
+[19:01:24]  Loaded 2 plugins.
+
+[19:01:24] 
+[19:01:24] Filterscripts
+[19:01:24] ---------------
+[19:01:24]   Loaded 0 filterscripts.
+
+[19:01:28] Connection to database successful!
+[19:01:28] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[19:01:28] Number of vehicle models: 0
+[19:01:29] 
+- GangZones loaded: 104. For: (0 ms)
+[19:01:44] Incomming connection: 127.0.0.1:56088
+[19:01:44] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[19:44:00] filterscripts = ""  (string)
+[19:44:00] 
+[19:44:00] Server Plugins
+[19:44:00] --------------
+[19:44:00]  Loading plugin: mysql.dll
+[19:44:00]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:00]   Loaded.
+[19:44:00]  Loading plugin: dc_cmd.dll
+[19:44:00]   Daniel''s CMD plugin v2.01
+[19:44:00]   Loaded.
+[19:44:00]  Loaded 2 plugins.
+
+[19:44:00] 
+[19:44:00] Filterscripts
+[19:44:00] ---------------
+[19:44:00]   Loaded 0 filterscripts.
+
+[19:44:04] Connection to database successful!
+[19:44:04] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[19:44:04] Number of vehicle models: 0
+[19:44:04] 
+- GangZones loaded: 104. For: (0 ms)
+[19:44:19] Incomming connection: 127.0.0.1:59606
+[19:44:19] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[19:44:27] [chat] 0x23C0231: ыфва
+[19:44:36] [chat] 0x23C0231: Тест
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[20:16:50] filterscripts = ""  (string)
+[20:16:50] 
+[20:16:50] Server Plugins
+[20:16:50] --------------
+[20:16:50]  Loading plugin: mysql.dll
+[20:16:50]  >> plugin.mysql: R41-4 successfully loaded.
+[20:16:50]   Loaded.
+[20:16:50]  Loading plugin: dc_cmd.dll
+[20:16:50]   Daniel''s CMD plugin v2.01
+[20:16:50]   Loaded.
+[20:16:50]  Loaded 2 plugins.
+
+[20:16:50] 
+[20:16:50] Filterscripts
+[20:16:50] ---------------
+[20:16:50]   Loaded 0 filterscripts.
+
+[20:16:54] Connection to database successful!
+[20:16:54] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[20:16:54] Number of vehicle models: 0
+[20:16:54] 
+- GangZones loaded: 104. For: (0 ms)
+[20:17:03] Incomming connection: 127.0.0.1:63890
+[20:17:03] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[20:17:14] [chat] 0x23C0231: Тест
+[20:19:04] [part] 0x23C0231 has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[20:23:55] filterscripts = ""  (string)
+[20:23:55] 
+[20:23:55] Server Plugins
+[20:23:55] --------------
+[20:23:55]  Loading plugin: mysql.dll
+[20:23:55]  >> plugin.mysql: R41-4 successfully loaded.
+[20:23:55]   Loaded.
+[20:23:55]  Loading plugin: dc_cmd.dll
+[20:23:55]   Daniel''s CMD plugin v2.01
+[20:23:55]   Loaded.
+[20:23:55]  Loaded 2 plugins.
+
+[20:23:55] 
+[20:23:55] Filterscripts
+[20:23:55] ---------------
+[20:23:55]   Loaded 0 filterscripts.
+
+[20:23:59] Connection to database successful!
+[20:23:59] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[20:23:59] Number of vehicle models: 0
+[20:23:59] 
+- GangZones loaded: 104. For: (0 ms)
+[20:25:28] Incomming connection: 127.0.0.1:62272
+[20:25:28] [join] 0x23C023 has joined the server (0:127.0.0.1)
+[20:26:50] [part] 0x23C023 has left the server (0:1)
+[20:27:07] Incomming connection: 127.0.0.1:54203
+[20:27:07] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[20:38:47] [part] 0x23C0231 has left the server (0:1)
+[20:39:09] Incomming connection: 127.0.0.1:61826
+[20:39:09] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[22:12:42] Incomming connection: 127.0.0.1:56727
+[22:13:02] Incomming connection: 127.0.0.1:56728
+[22:13:02] [join] 0x23C023 has joined the server (1:127.0.0.1)
+[22:13:11] [chat] 0x23C023: хай
+[22:13:54] [chat] 0x23C023: Привет
+[22:14:00] [chat] 0x23C0231: Привет
+[22:14:08] [chat] 0x23C023: Привет
+[22:14:26] [chat] 0x23C0231: Соси член, да
+[22:14:46] [part] 0x23C023 has left the server (1:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[22:36:21] filterscripts = ""  (string)
+[22:36:21] 
+[22:36:21] Server Plugins
+[22:36:21] --------------
+[22:36:21]  Loading plugin: mysql.dll
+[22:36:21]  >> plugin.mysql: R41-4 successfully loaded.
+[22:36:21]   Loaded.
+[22:36:21]  Loading plugin: dc_cmd.dll
+[22:36:21]   Daniel''s CMD plugin v2.01
+[22:36:21]   Loaded.
+[22:36:21]  Loading plugin: sscanf.dll
+[22:36:21] 
+
+[22:36:21]  ===============================
+
+[22:36:21]       sscanf plugin loaded.     
+
+[22:36:21]          Version:  2.8.2        
+
+[22:36:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:36:21]  ===============================
+
+[22:36:21]   Loaded.
+[22:36:21]  Loaded 3 plugins.
+
+[22:36:21] 
+[22:36:21] Filterscripts
+[22:36:21] ---------------
+[22:36:21]   Loaded 0 filterscripts.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[22:45:18] filterscripts = ""  (string)
+[22:45:18] 
+[22:45:18] Server Plugins
+[22:45:18] --------------
+[22:45:18]  Loading plugin: mysql.dll
+[22:45:18]  >> plugin.mysql: R41-4 successfully loaded.
+[22:45:18]   Loaded.
+[22:45:18]  Loading plugin: dc_cmd.dll
+[22:45:18]   Daniel''s CMD plugin v2.01
+[22:45:18]   Loaded.
+[22:45:18]  Loading plugin: sscanf.dll
+[22:45:18] 
+
+[22:45:18]  ===============================
+
+[22:45:18]       sscanf plugin loaded.     
+
+[22:45:18]          Version:  2.8.2        
+
+[22:45:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:45:19]  ===============================
+
+[22:45:19]   Loaded.
+[22:45:19]  Loaded 3 plugins.
+
+[22:45:19] 
+[22:45:19] Filterscripts
+[22:45:19] ---------------
+[22:45:19]   Loaded 0 filterscripts.
+
+[22:45:23] Connection to database successful!
+[22:45:23] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[22:45:23] Number of vehicle models: 0
+[22:45:23] 
+- GangZones loaded: 104. For: (0 ms)
+[22:45:35] Incomming connection: 127.0.0.1:56205
+[22:45:35] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[22:46:28] Incomming connection: 127.0.0.1:62686
+[22:46:28] [join] 0x23C023 has joined the server (1:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[22:57:49] filterscripts = ""  (string)
+[22:57:49] 
+[22:57:49] Server Plugins
+[22:57:49] --------------
+[22:57:49]  Loading plugin: mysql.dll
+[22:57:49]  >> plugin.mysql: R41-4 successfully loaded.
+[22:57:49]   Loaded.
+[22:57:49]  Loading plugin: dc_cmd.dll
+[22:57:49]   Daniel''s CMD plugin v2.01
+[22:57:49]   Loaded.
+[22:57:49]  Loading plugin: sscanf.dll
+[22:57:49] 
+
+[22:57:49]  ===============================
+
+[22:57:49]       sscanf plugin loaded.     
+
+[22:57:49]          Version:  2.8.2        
+
+[22:57:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:57:49]  ===============================
+
+[22:57:49]   Loaded.
+[22:57:49]  Loaded 3 plugins.
+
+[22:57:49] 
+[22:57:49] Filterscripts
+[22:57:49] ---------------
+[22:57:49]   Loaded 0 filterscripts.
+
+[22:57:53] Connection to database successful!
+[22:57:53] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[22:57:53] Number of vehicle models: 0
+[22:57:54] 
+- GangZones loaded: 104. For: (0 ms)
+[22:57:58] Incomming connection: 127.0.0.1:59738
+[22:57:58] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[23:21:52] filterscripts = ""  (string)
+[23:21:52] 
+[23:21:52] Server Plugins
+[23:21:52] --------------
+[23:21:52]  Loading plugin: mysql.dll
+[23:21:52]  >> plugin.mysql: R41-4 successfully loaded.
+[23:21:52]   Loaded.
+[23:21:52]  Loading plugin: dc_cmd.dll
+[23:21:52]   Daniel''s CMD plugin v2.01
+[23:21:52]   Loaded.
+[23:21:52]  Loading plugin: sscanf.dll
+[23:21:52] 
+
+[23:21:52]  ===============================
+
+[23:21:52]       sscanf plugin loaded.     
+
+[23:21:52]          Version:  2.8.2        
+
+[23:21:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:21:52]  ===============================
+
+[23:21:52]   Loaded.
+[23:21:52]  Loaded 3 plugins.
+
+[23:21:52] 
+[23:21:52] Filterscripts
+[23:21:52] ---------------
+[23:21:52]   Loaded 0 filterscripts.
+
+[23:21:56] Connection to database successful!
+[23:21:56] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[23:21:56] Number of vehicle models: 0
+[23:21:56] 
+- GangZones loaded: 104. For: (0 ms)
+[23:22:07] Incomming connection: 127.0.0.1:49281
+[23:22:07] [join] 0x23C023 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[23:32:21] filterscripts = ""  (string)
+[23:32:21] 
+[23:32:21] Server Plugins
+[23:32:21] --------------
+[23:32:21]  Loading plugin: mysql.dll
+[23:32:21]  >> plugin.mysql: R41-4 successfully loaded.
+[23:32:21]   Loaded.
+[23:32:21]  Loading plugin: dc_cmd.dll
+[23:32:21]   Daniel''s CMD plugin v2.01
+[23:32:21]   Loaded.
+[23:32:21]  Loading plugin: sscanf.dll
+[23:32:21] 
+
+[23:32:21]  ===============================
+
+[23:32:21]       sscanf plugin loaded.     
+
+[23:32:21]          Version:  2.8.2        
+
+[23:32:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:32:21]  ===============================
+
+[23:32:21]   Loaded.
+[23:32:21]  Loaded 3 plugins.
+
+[23:32:21] 
+[23:32:21] Filterscripts
+[23:32:21] ---------------
+[23:32:21]   Loaded 0 filterscripts.
+
+[23:32:25] Connection to database successful!
+[23:32:25] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[23:32:25] Number of vehicle models: 0
+[23:32:26] 
+- GangZones loaded: 104. For: (0 ms)
+[23:33:24] Incomming connection: 127.0.0.1:57959
+[23:33:24] [join] 0x23C023 has joined the server (0:127.0.0.1)
+[23:37:10] [part] 0x23C023 has left the server (0:1)
+[23:37:27] Incomming connection: 127.0.0.1:57657
+[23:37:27] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[23:41:36] [part] 0x23C0231 has left the server (0:1)
+[23:46:26] Incomming connection: 127.0.0.1:54894
+[23:46:26] [join] 0x23C023 has joined the server (0:127.0.0.1)
+[23:47:11] [part] 0x23C023 has left the server (0:1)
+[23:47:37] Incomming connection: 127.0.0.1:57340
+[23:47:37] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[23:54:59] [part] 0x23C0231 has left the server (0:2)
+[00:05:08] Incomming connection: 127.0.0.1:55638
+[00:05:08] [join] 0x23C0231 has joined the server (0:127.0.0.1)
+[10:18:36] [part] 0x23C0231 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[15:47:38] filterscripts = ""  (string)
+[15:47:38] 
+[15:47:38] Server Plugins
+[15:47:38] --------------
+[15:47:38]  Loading plugin: mysql.dll
+[15:47:38]  >> plugin.mysql: R41-4 successfully loaded.
+[15:47:38]   Loaded.
+[15:47:38]  Loading plugin: dc_cmd.dll
+[15:47:38]   Daniel''s CMD plugin v2.01
+[15:47:38]   Loaded.
+[15:47:38]  Loading plugin: sscanf.dll
+[15:47:38] 
+
+[15:47:38]  ===============================
+
+[15:47:38]       sscanf plugin loaded.     
+
+[15:47:38]          Version:  2.8.2        
+
+[15:47:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:47:38]  ===============================
+
+[15:47:38]   Loaded.
+[15:47:38]  Loaded 3 plugins.
+
+[15:47:38] 
+[15:47:38] Filterscripts
+[15:47:38] ---------------
+[15:47:38]   Loaded 0 filterscripts.
+
+[15:47:43] Connection to database successful!
+[15:47:43] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[15:47:43] Number of vehicle models: 0
+[15:47:43] 
+- GangZones loaded: 104. For: (0 ms)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[15:56:42] filterscripts = ""  (string)
+[15:56:42] 
+[15:56:42] Server Plugins
+[15:56:42] --------------
+[15:56:42]  Loading plugin: mysql.dll
+[15:56:42]  >> plugin.mysql: R41-4 successfully loaded.
+[15:56:42]   Loaded.
+[15:56:42]  Loading plugin: dc_cmd.dll
+[15:56:42]   Daniel''s CMD plugin v2.01
+[15:56:42]   Loaded.
+[15:56:42]  Loading plugin: sscanf.dll
+[15:56:42] 
+
+[15:56:42]  ===============================
+
+[15:56:42]       sscanf plugin loaded.     
+
+[15:56:42]          Version:  2.8.2        
+
+[15:56:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:56:42]  ===============================
+
+[15:56:42]   Loaded.
+[15:56:42]  Loaded 3 plugins.
+
+[15:56:42] 
+[15:56:42] Filterscripts
+[15:56:42] ---------------
+[15:56:42]   Loaded 0 filterscripts.
+
+[15:56:46] Connection to database successful!
+[15:56:46] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[15:56:46] Number of vehicle models: 0
+[15:56:46] 
+- GangZones loaded: 104. For: (0 ms)
+[15:58:10] Incomming connection: 127.0.0.1:62020
+[15:58:10] [join] 0x23C023 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:05:35] filterscripts = ""  (string)
+[16:05:35] 
+[16:05:35] Server Plugins
+[16:05:35] --------------
+[16:05:35]  Loading plugin: mysql.dll
+[16:05:36]  >> plugin.mysql: R41-4 successfully loaded.
+[16:05:36]   Loaded.
+[16:05:36]  Loading plugin: dc_cmd.dll
+[16:05:36]   Daniel''s CMD plugin v2.01
+[16:05:36]   Loaded.
+[16:05:36]  Loading plugin: sscanf.dll
+[16:05:36] 
+
+[16:05:36]  ===============================
+
+[16:05:36]       sscanf plugin loaded.     
+
+[16:05:36]          Version:  2.8.2        
+
+[16:05:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:05:36]  ===============================
+
+[16:05:36]   Loaded.
+[16:05:36]  Loaded 3 plugins.
+
+[16:05:36] 
+[16:05:36] Filterscripts
+[16:05:36] ---------------
+[16:05:36]   Loaded 0 filterscripts.
+
+[16:05:40] Connection to database successful!
+[16:05:40] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:05:40] Number of vehicle models: 0
+[16:05:40] 
+- GangZones loaded: 104. For: (0 ms)
+[16:05:54] Incomming connection: 127.0.0.1:59776
+[16:05:56] [join] 0x23C023 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:07:04] filterscripts = ""  (string)
+[16:07:04] 
+[16:07:04] Server Plugins
+[16:07:04] --------------
+[16:07:04]  Loading plugin: mysql.dll
+[16:07:04]  >> plugin.mysql: R41-4 successfully loaded.
+[16:07:04]   Loaded.
+[16:07:04]  Loading plugin: dc_cmd.dll
+[16:07:04]   Daniel''s CMD plugin v2.01
+[16:07:04]   Loaded.
+[16:07:04]  Loading plugin: sscanf.dll
+[16:07:04] 
+
+[16:07:04]  ===============================
+
+[16:07:04]       sscanf plugin loaded.     
+
+[16:07:04]          Version:  2.8.2        
+
+[16:07:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:07:04]  ===============================
+
+[16:07:04]   Loaded.
+[16:07:04]  Loaded 3 plugins.
+
+[16:07:05] 
+[16:07:05] Filterscripts
+[16:07:05] ---------------
+[16:07:05]   Loaded 0 filterscripts.
+
+[16:07:09] Connection to database successful!
+[16:07:09] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:07:09] Number of vehicle models: 0
+[16:07:09] 
+- GangZones loaded: 104. For: (0 ms)
+[16:07:13] Incomming connection: 127.0.0.1:54692
+[16:07:13] [join] 0x23C023 has joined the server (0:127.0.0.1)
+[16:07:17] [part] 0x23C023 has left the server (0:2)
+[16:08:25] Incomming connection: 127.0.0.1:55158
+[16:08:26] [join] Player has joined the server (0:127.0.0.1)
+[16:31:25] [part] Player has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[16:31:55] filterscripts = ""  (string)
+[16:31:55] 
+[16:31:55] Server Plugins
+[16:31:55] --------------
+[16:31:55]  Loading plugin: mysql.dll
+[16:31:55]  >> plugin.mysql: R41-4 successfully loaded.
+[16:31:55]   Loaded.
+[16:31:55]  Loading plugin: dc_cmd.dll
+[16:31:55]   Daniel''s CMD plugin v2.01
+[16:31:55]   Loaded.
+[16:31:55]  Loading plugin: sscanf.dll
+[16:31:55] 
+
+[16:31:55]  ===============================
+
+[16:31:55]       sscanf plugin loaded.     
+
+[16:31:55]          Version:  2.8.2        
+
+[16:31:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:31:55]  ===============================
+
+[16:31:55]   Loaded.
+[16:31:55]  Loaded 3 plugins.
+
+[16:31:55] 
+[16:31:55] Filterscripts
+[16:31:55] ---------------
+[16:31:55]   Loaded 0 filterscripts.
+
+[16:31:59] Connection to database successful!
+[16:31:59] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[16:31:59] Number of vehicle models: 0
+[16:32:00] 
+- GangZones loaded: 104. For: (0 ms)
+[16:32:13] Incomming connection: 127.0.0.1:58439
+[16:32:13] [join] Player has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[12:29:53] filterscripts = ""  (string)
+[12:29:53] 
+[12:29:53] Server Plugins
+[12:29:53] --------------
+[12:29:53]  Loading plugin: mysql.dll
+[12:29:53]  >> plugin.mysql: R41-4 successfully loaded.
+[12:29:53]   Loaded.
+[12:29:53]  Loading plugin: dc_cmd.dll
+[12:29:53]   Daniel''s CMD plugin v2.01
+[12:29:53]   Loaded.
+[12:29:53]  Loading plugin: sscanf.dll
+[12:29:53] 
+
+[12:29:53]  ===============================
+
+[12:29:53]       sscanf plugin loaded.     
+
+[12:29:53]          Version:  2.8.2        
+
+[12:29:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:29:53]  ===============================
+
+[12:29:53]   Loaded.
+[12:29:53]  Loaded 3 plugins.
+
+[12:29:53] 
+[12:29:53] Filterscripts
+[12:29:53] ---------------
+[12:29:53]   Loaded 0 filterscripts.
+
+[12:29:58] Connection to database successful!
+[12:29:58] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[12:29:58] Number of vehicle models: 0
+[12:29:58] 
+- GangZones loaded: 104. For: (0 ms)
+[12:36:30] Incomming connection: 127.0.0.1:53226
+[12:36:30] [join] 0x23C023 has joined the server (0:127.0.0.1)
+[13:02:07] [part] 0x23C023 has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[23:57:31] filterscripts = ""  (string)
+[23:57:31] 
+[23:57:31] Server Plugins
+[23:57:31] --------------
+[23:57:31]  Loading plugin: mysql.dll
+[23:57:31]  >> plugin.mysql: R41-4 successfully loaded.
+[23:57:31]   Loaded.
+[23:57:31]  Loading plugin: dc_cmd.dll
+[23:57:31]   Daniel''s CMD plugin v2.01
+[23:57:31]   Loaded.
+[23:57:31]  Loading plugin: sscanf.dll
+[23:57:31] 
+
+[23:57:31]  ===============================
+
+[23:57:31]       sscanf plugin loaded.     
+
+[23:57:31]          Version:  2.8.2        
+
+[23:57:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:57:31]  ===============================
+
+[23:57:31]   Loaded.
+[23:57:31]  Loaded 3 plugins.
+
+[23:57:32] 
+[23:57:32] Filterscripts
+[23:57:32] ---------------
+[23:57:32]   Loaded 0 filterscripts.
+
+[23:57:37] Connection to database successful!
+[23:57:37] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[23:57:37] Number of vehicle models: 0
+[23:57:38] 
+- GangZones loaded: 104. For: (0 ms)
+[23:58:48] Incomming connection: 127.0.0.1:50266
+[23:58:48] [join] Player has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[15:13:42] filterscripts = ""  (string)
+[15:13:42] 
+[15:13:42] Server Plugins
+[15:13:42] --------------
+[15:13:42]  Loading plugin: mysql.dll
+[15:13:42]  >> plugin.mysql: R41-4 successfully loaded.
+[15:13:42]   Loaded.
+[15:13:42]  Loading plugin: dc_cmd.dll
+[15:13:42]   Daniel''s CMD plugin v2.01
+[15:13:42]   Loaded.
+[15:13:42]  Loading plugin: sscanf.dll
+[15:13:42] 
+
+[15:13:42]  ===============================
+
+[15:13:42]       sscanf plugin loaded.     
+
+[15:13:43]          Version:  2.8.2        
+
+[15:13:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:13:43]  ===============================
+
+[15:13:43]   Loaded.
+[15:13:43]  Loaded 3 plugins.
+
+[15:13:43] Unable to start server on port: 7777. Port in use?
+[15:13:43] 
+[15:13:43] Filterscripts
+[15:13:43] ---------------
+[15:13:43]   Loaded 0 filterscripts.
+
+[15:13:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[19:32:51] filterscripts = ""  (string)
+[19:32:51] 
+[19:32:51] Server Plugins
+[19:32:51] --------------
+[19:32:51]  Loading plugin: mysql.dll
+[19:32:51]  >> plugin.mysql: R41-4 successfully loaded.
+[19:32:51]   Loaded.
+[19:32:51]  Loading plugin: dc_cmd.dll
+[19:32:51]   Daniel''s CMD plugin v2.01
+[19:32:51]   Loaded.
+[19:32:51]  Loading plugin: sscanf.dll
+[19:32:51] 
+
+[19:32:51]  ===============================
+
+[19:32:51]       sscanf plugin loaded.     
+
+[19:32:51]          Version:  2.8.2        
+
+[19:32:51]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:32:51]  ===============================
+
+[19:32:51]   Loaded.
+[19:32:51]  Loaded 3 plugins.
+
+[19:32:52] 
+[19:32:52] Filterscripts
+[19:32:52] ---------------
+[19:32:52]   Loaded 0 filterscripts.
+
+[19:32:52] Database connection failed [Unknown error. Error code: 2019]
+[19:32:52] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[19:32:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[19:33:01] filterscripts = ""  (string)
+[19:33:01] 
+[19:33:01] Server Plugins
+[19:33:01] --------------
+[19:33:01]  Loading plugin: mysql.dll
+[19:33:01]  >> plugin.mysql: R41-4 successfully loaded.
+[19:33:01]   Loaded.
+[19:33:01]  Loading plugin: dc_cmd.dll
+[19:33:01]   Daniel''s CMD plugin v2.01
+[19:33:01]   Loaded.
+[19:33:01]  Loading plugin: sscanf.dll
+[19:33:01] 
+
+[19:33:01]  ===============================
+
+[19:33:01]       sscanf plugin loaded.     
+
+[19:33:01]          Version:  2.8.2        
+
+[19:33:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:33:01]  ===============================
+
+[19:33:02]   Loaded.
+[19:33:02]  Loaded 3 plugins.
+
+[19:33:02] 
+[19:33:02] Filterscripts
+[19:33:02] ---------------
+[19:33:02]   Loaded 0 filterscripts.
+
+[19:33:02] Database connection failed [Unknown error. Error code: 2019]
+[19:33:02] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[19:33:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+RW-MP Dedicated Server
+----------------------
+v0.2.1, (C)2017-2018 RW-MP Team
+Built on May  9 2018 10:09:01 
+
+[19:33:21] filterscripts = ""  (string)
+[19:33:21] 
+[19:33:21] Server Plugins
+[19:33:21] --------------
+[19:33:21]  Loading plugin: mysql.dll
+[19:33:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:33:21]   Loaded.
+[19:33:21]  Loading plugin: dc_cmd.dll
+[19:33:21]   Daniel''s CMD plugin v2.01
+[19:33:21]   Loaded.
+[19:33:21]  Loading plugin: sscanf.dll
+[19:33:21] 
+
+[19:33:21]  ===============================
+
+[19:33:21]       sscanf plugin loaded.     
+
+[19:33:21]          Version:  2.8.2        
+
+[19:33:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:33:21]  ===============================
+
+[19:33:21]   Loaded.
+[19:33:21]  Loaded 3 plugins.
+
+[19:33:21] 
+[19:33:21] Filterscripts
+[19:33:21] ---------------
+[19:33:21]   Loaded 0 filterscripts.
+
+[19:33:21] Database connection failed [Unknown error. Error code: 2019]
+[19:33:21] WildWay DeathMatch loaded. Version: 0.1 Alpha
+[19:33:21] Number of vehicle models: 0
